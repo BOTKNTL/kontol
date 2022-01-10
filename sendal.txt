@@ -314,7 +314,7 @@ echo '</center></td>
 </tr>';}
 echo '</table>
 </div>';}
-echo '<center><br><a class=S3nd4l href=https://gitlab.com/s3nd4l_jepit/s3nd4l_jepit-minishell>&copy; S3nd4l_Jepit</a></center>
+echo '<center><br><a class=S3nd4l href=https://github.com/cowokumel/s3nd4ljepit-minishell>&copy; S3nd4l_Jepit</a></center>
 </body>
 </html>';
 function exe($cmd) {
